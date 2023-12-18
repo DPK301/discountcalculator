@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discountcalculator/static/css/main.a240c550.css",
+    "main.js": "/discountcalculator/static/js/main.a1351789.js",
+    "index.html": "/discountcalculator/index.html",
+    "main.a240c550.css.map": "/discountcalculator/static/css/main.a240c550.css.map",
+    "main.a1351789.js.map": "/discountcalculator/static/js/main.a1351789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.a1351789.js"
+  ]
+}
